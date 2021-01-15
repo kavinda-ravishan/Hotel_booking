@@ -1,0 +1,8 @@
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Hotel_booking\Hotel_booking\x64\Debug\Hotel_booking.vcxprojAssemblyReference.cache
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Hotel_booking\Hotel_booking\x64\Debug\Hotelbooking.adminForm.resources
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Hotel_booking\Hotel_booking\x64\Debug\Hotelbooking.Advanced.resources
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Hotel_booking\Hotel_booking\x64\Debug\Hotelbooking.changePass.resources
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Hotel_booking\Hotel_booking\x64\Debug\Hotelbooking.login.resources
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Hotel_booking\Hotel_booking\x64\Debug\Hotelbooking.mainForm.resources
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Hotel_booking\Hotel_booking\x64\Debug\Hotelbooking.userMainForm.resources
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Hotel_booking\Hotel_booking\x64\Debug\Hotel_booking.vcxproj.GenerateResource.cache

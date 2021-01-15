@@ -1,0 +1,7 @@
+﻿  adminForm.cpp
+  login.cpp
+  mainForm.cpp
+  userMainForm.cpp
+  Generating Code...
+  adminForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Hotel_booking.vcxproj -> C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Hotel_booking\x64\Debug\Hotel_booking.exe
